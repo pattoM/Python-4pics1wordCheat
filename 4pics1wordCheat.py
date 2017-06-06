@@ -1,3 +1,5 @@
+#make sure to install pyenchant module for this to work.
+#working tutorial here: https://youtu.be/AKHdite6Fvs
 import itertools
 import enchant
 
